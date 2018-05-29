@@ -1,0 +1,10 @@
+How to setup the application:
+
+1- go to https://www.ibm.com/watson/services/natural-language-understanding/
+2- sign up for IBM Watson and subscribe to the Natural Language Understanding API
+3- Save the credentials that you got
+4- go to the folder node in the code and open app.js
+5- replace the {username} and {password} in lines 29 and 30 with the credentials you saved
+6- go to https://developers.facebook.com/docs/messenger-platform/getting-started/test-drive/?testdrive_messengerbot=true
+7- follow the steps to try a chat-bot, before running the command "node app.js" in the terminal. run the command "npm install watson-developer-cloud", and replace the code in app.js of the code that you will download from this link with the code in app.js of this folder
+8- finish the steps in the url in 7 and start using the application
